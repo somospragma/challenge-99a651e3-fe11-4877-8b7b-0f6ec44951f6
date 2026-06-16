@@ -1,0 +1,3 @@
+# Configuración de AWS
+aws_region: 'us-west-2'
+lambda_function_name: 'my_lambda_function'
